@@ -1,0 +1,15 @@
+.create-page {
+  /* background: transparent; */
+  height: 100%;
+  width: 100%;
+  padding: 2rem;
+  background-color: #FBFAFF;
+}
+.error-msg {
+  color: #E61445;
+}
+.card {
+  display: flex;
+  background-color: #FBFAFF;
+  padding: 2rem;
+}
